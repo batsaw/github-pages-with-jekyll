@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Добро пожаловать на мою небольшую страничку
 
-I'm glad you are here. I plan to talk about ...
+Рад видеть вас у себя на страничке! Тут я буду учиться создавать сайт с помощью GitHub Pages!
